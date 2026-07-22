@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+node_modules/
+# archivos fuente duplicados con espacios (ya copiados a assets/img/)
+sheep logo .png
+text logo .png
